@@ -18,6 +18,7 @@ function App() {
           Learn GIT Commands conflicts
         </a>
         <div> changes</div>
+        <span>Update update</span>
       </header>
     </div>
   );
