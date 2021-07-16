@@ -10,6 +10,8 @@ function App() {
            Repaso
         </p>
         <h1>Repaso Git</h1>
+        <div> Test 2 </div>
+        <div>Cambio 2</div>
         <a
           className="App-link"
           href="https://reactjs.org"
