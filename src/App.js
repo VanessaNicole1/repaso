@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn GIT Commands
+          Learn GIT Commands conflicts
         </a>
+        <div> changes</div>
       </header>
     </div>
   );
