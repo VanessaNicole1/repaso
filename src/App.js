@@ -9,8 +9,15 @@ function App() {
         <p>
            Repaso
         </p>
-
         <h1>Repaso Git</h1>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn GIT Commands
+        </a>
       </header>
     </div>
   );
